@@ -1,0 +1,104 @@
+.navbar.navbar-default {
+	background-color: #F3F3F3;
+	box-shadow: 0 0 5px 0px gray;
+}
+.hearts {
+	background: url(hearts.png) no-repeat  top;
+	height: 15px;
+	background-size: 150px 315px;
+	display: inline-block;
+	margin-top: 4px;
+}
+.h-0 {
+	width: 150px;
+	background-position: 0px 0px;
+}
+.h-5 {
+	width: 150px;
+	background-position: 0px -15px;
+}
+.h-10 {
+	width: 150px;
+	background-position: 0px -30px;
+}
+.h-15 {
+	width: 150px;
+	background-position: 0px -45px;
+}
+.h-20 {
+	width: 150px;
+	background-position: 0px -60px;
+}
+.h-25 {
+	width: 150px;
+	background-position: 0px -75px;
+}
+.h-30 {
+	width: 150px;
+	background-position: 0px -90px;
+}
+.h-35 {
+	width: 150px;
+	background-position: 0px -105px;
+}
+.h-40 {
+	width: 150px;
+	background-position: 0px -120px;
+}
+.h-45 {
+	width: 150px;
+	background-position: 0px -135px;
+}
+.h-50 {
+	width: 150px;
+	background-position: 0px -150px;
+}
+.h-55 {
+	width: 150px;
+	background-position: 0px -165px;
+}
+.h-60 {
+	width: 150px;
+	background-position: 0px -180px;
+}
+.h-65 {
+	width: 150px;
+	background-position: 0px -195px;
+}
+.h-70 {
+	width: 150px;
+	background-position: 0px -210px;
+}
+.h-75 {
+	width: 150px;
+	background-position: 0px -225px;
+}
+.h-80 {
+	width: 150px;
+	background-position: 0px -240px;
+}
+.h-85 {
+	width: 150px;
+	background-position: 0px -255px;
+}
+.h-90 {
+	width: 150px;
+	background-position: 0px -270px;
+}
+.h-95 {
+	width: 150px;
+	background-position: 0px -285px;
+}
+.h-100 {
+	width: 150px;
+	background-position: 0px -300px;
+}
+.avatar {
+	width: 16px;
+	height: 16px;
+	border-radius: 2px;
+}
+tr.sortable > th > a.btn-sm {
+	padding-left: 6px;
+	padding-right: 6px;
+}
